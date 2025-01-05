@@ -1,4 +1,5 @@
 Diabetes Prediction Using Machine Learning
+
 This project uses the PIMA Diabetes dataset to build a machine learning model for predicting whether a person has diabetes based on various medical factors. The dataset includes features such as pregnancy count, glucose levels, blood pressure, BMI, age, and more.
 
 Requirements:-
