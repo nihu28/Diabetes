@@ -4,7 +4,7 @@ This project uses the PIMA Diabetes dataset to build a machine learning model fo
 Requirements:-
 To run the code in this repository, you need to install the following Python libraries:
 1. numpy
-2 pandas
+2. pandas
 3. scikit-learn
 
 Dataset:-
